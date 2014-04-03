@@ -1,0 +1,24 @@
+Bonuses
+*********
+
+***Login Validation index.html 
+The login web page in this web page there is login validation in JavaScript
+The user can log-in only with a proper email address.
+
+
+*** Sending mail in HTML Format.
+When the server send mail it sends HTML page and not regular plain text, 
+We send it with MIME-Version: 1.0 Content-type: text/html
+those two header notify to the SMTP server that the mail is in HTML format
+
+
+** Poll Notification 
+We added some new functionality if poll creator wants to know every time
+that poll recipient replied his poll he can check the checkbox in the poll
+creation HTML page.
+The poll creator will get a mail after each response.
+
+
+*** Online Users
+This new feature notify to the logged-in user who else is logged in.
+The online users list is shown in the main.html page. 
